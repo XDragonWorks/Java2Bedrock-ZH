@@ -1,3 +1,8 @@
+## Java2Bedrock中文版
+修改:
+ - 汉化了转换脚本的主要内容
+ - 使用7zip而不是zip/unzip加快压缩/解压速度
+
 ## Support (we have stopped updating - we are preparing for a new project)
 
 https://discord.gg/uRNPQhkENk
