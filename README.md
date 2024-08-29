@@ -2,6 +2,7 @@
 修改:
  - 汉化了转换脚本的主要内容
  - 使用7zip而不是zip/unzip加快压缩/解压速度
+ - 替换了国内的raw.githubusercontent.com加速源下载
 
 ## Support (we have stopped updating - we are preparing for a new project)
 
